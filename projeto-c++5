@@ -1,0 +1,45 @@
+#iclude <stdio.h>
+int mensagem ()
+/*função simples : so imprime ola */;
+
+{
+	printf("olá");
+	return();
+}
+{
+	int main ()
+
+{
+	mensagem ();
+	print("\n Eu estou vivo \n");
+	return(0);
+	
+}
+{
+	int square (int x)
+}
+{
+print("o quadrado de %d, (x'x)) 
+return(0);		
+}
+
+{
+printf ("Entre com um numero: "); 
+scanf("%d",num);
+}	
+
+{
+int num;
+printf ("Entrecom um numero: ");
+scanf ("%d",num);
+
+
+printf ("\n\n");
+square (num);
+return(0);
+
+	
+}
+
+
+	
